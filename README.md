@@ -7,7 +7,7 @@ This repository is belong to the paper titled "JTCSE: Joint Tensor Modulus Const
 
 JTCSE is a BERT-like model for computing sentence embedding vectors, trained using unsupervised contrastive learning.
 
-JTCSE is an extension of the AAAI25 paper [TNCSE]([https://arxiv.org/abs/2503.12739](https://ojs.aaai.org/index.php/AAAI/article/view/34816)).
+JTCSE is an extension of the AAAI25 paper [TNCSE](https://ojs.aaai.org/index.php/AAAI/article/view/34816).
 # How to Use
 
 We recommend you train JTCSE with RAM >= 48GB and GPU memory >= 24GB.
