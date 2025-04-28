@@ -20,6 +20,7 @@ pip install -r requirements.txt
 ```
 
 After installation, make sure you download models' [checkpoints and training datasets](https://huggingface.co/UCASzty) from HF and copy all the folders into the directory where the project resides. All the checkpoints you need are in these folders.
+**The JTCSE training dataset is consistent with TNCSE.**
 
 ## Direct Evaluation
 
