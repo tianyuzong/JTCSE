@@ -19,7 +19,7 @@ You also need to make sure your python >= 3.6 and install py repositories in req
 pip install -r requirements.txt
 ```
 
-After installation, make sure you download models' [checkpoint](https://huggingface.co/UCASzty) from HF and copy all the folders into the directory where the project resides. All the checkpoints you need are in these folders.
+After installation, make sure you download models' [checkpoint and training datasets](https://huggingface.co/UCASzty) from HF and copy all the folders into the directory where the project resides. All the checkpoints you need are in these folders.
 
 ## Direct Evaluation
 
